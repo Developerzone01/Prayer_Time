@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayerTime</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyCNi1XbDAVoDXZ4qjEEXmZ4R2VyZhj2L9A</string>
+</resources>
